@@ -1,7 +1,7 @@
 # react
 (should have node v10.0 or above in system)
 
-        run cammands at folder location:
+        run commands at folder location:
 
         1. npm install
 
