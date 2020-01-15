@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test for temperatureInput component 1`] = `
+<table
+  cellSpacing="40"
+>
+  <thead>
+    <tr>
+      <th>
+        Input Numerical Value
+      </th>
+      <th>
+        Input Unit of Measure
+      </th>
+      <th>
+        Target Unit of Measure
+      </th>
+      <th>
+        Student Response
+      </th>
+      <th>
+        Output
+      </th>
+    </tr>
+  </thead>
+  <tbody />
+</table>
+`;
